@@ -9,3 +9,4 @@ graph TD
     G --> H[NPCI Routes Payment Using Aadhaar Mapper to Correct Bank];
     H --> I[Bank Credits DBT Payment to Beneficiary's Account];
     I --> J[Beneficiary Receives SMS Confirmation of Credit];
+    
